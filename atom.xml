@@ -17,8 +17,8 @@
   
   <entry>
     <title>Testovací článek v Hexo</title>
-    <link href="http://milanlochovsky.github.io/2017/05/28/testovaci-clanek-v-hexo/"/>
-    <id>http://milanlochovsky.github.io/2017/05/28/testovaci-clanek-v-hexo/</id>
+    <link href="http://milanlochovsky.github.io/2017/05/testovaci-clanek-v-hexo/"/>
+    <id>http://milanlochovsky.github.io/2017/05/testovaci-clanek-v-hexo/</id>
     <published>2017-05-28T12:57:19.000Z</published>
     <updated>2017-05-28T13:01:16.000Z</updated>
     
@@ -41,14 +41,14 @@
     </summary>
     
     
-      <category term="hexo, test, nevim" scheme="http://milanlochovsky.github.io/tags/hexo-test-nevim/"/>
+      <category term="hexo, test, nevim" scheme="http://milanlochovsky.github.io/tagy/hexo-test-nevim/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://milanlochovsky.github.io/2017/05/28/hello-world/"/>
-    <id>http://milanlochovsky.github.io/2017/05/28/hello-world/</id>
+    <link href="http://milanlochovsky.github.io/2017/05/hello-world/"/>
+    <id>http://milanlochovsky.github.io/2017/05/hello-world/</id>
     <published>2017-05-28T09:00:21.580Z</published>
     <updated>2017-05-28T09:00:22.000Z</updated>
     
