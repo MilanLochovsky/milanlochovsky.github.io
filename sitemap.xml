@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://milanlochovsky.github.io/2017/05/28/testovaci-clanek-v-hexo/</loc>
+    
+    <lastmod>2017-05-28T13:00:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://milanlochovsky.github.io/2017/05/28/hello-world/</loc>
     
     <lastmod>2017-05-28T09:00:22.000Z</lastmod>
