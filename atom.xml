@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://milanlochovsky.github.io/"/>
-  <updated>2017-05-28T13:00:02.000Z</updated>
+  <updated>2017-05-28T13:01:16.000Z</updated>
   <id>http://milanlochovsky.github.io/</id>
   
   <author>
@@ -16,13 +16,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>testovaci-clanek-v-hexo</title>
+    <title>Testovací článek v Hexo</title>
     <link href="http://milanlochovsky.github.io/2017/05/28/testovaci-clanek-v-hexo/"/>
     <id>http://milanlochovsky.github.io/2017/05/28/testovaci-clanek-v-hexo/</id>
     <published>2017-05-28T12:57:19.000Z</published>
-    <updated>2017-05-28T13:00:02.000Z</updated>
+    <updated>2017-05-28T13:01:16.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Nejaky-nadpis"><a href="#Nejaky-nadpis" class="headerlink" title="Nejaky nadpis"></a>Nejaky nadpis</h2><p>Textu velka hromada. Lorem ipsum dolor sit amet consectetuer adipiscing ac pellentesque elit tellus. Neque lacus mauris Mauris eros purus nibh Morbi Curabitur ut sagittis. Porttitor Vestibulum id malesuada pretium Pellentesque interdum Fusce ridiculus lacinia lobortis. Eu fermentum a orci orci et Phasellus nunc lorem ante odio. Aliquam aliquet adipiscing id ridiculus et dictumst congue sem quis et. Nec sapien et at nec Curabitur Nulla enim ut risus.</p>
+    <content type="html"><![CDATA[<p>Uvodni nejaky kratky text na zacatek clanku, ktery pak bude pokracovat.</p>
+<a id="more"></a>
+<h2 id="Nejaky-nadpis"><a href="#Nejaky-nadpis" class="headerlink" title="Nejaky nadpis"></a>Nejaky nadpis</h2><p>Textu velka hromada. Lorem ipsum dolor sit amet consectetuer adipiscing ac pellentesque elit tellus. Neque lacus mauris Mauris eros purus nibh Morbi Curabitur ut sagittis. Porttitor Vestibulum id malesuada pretium Pellentesque interdum Fusce ridiculus lacinia lobortis. Eu fermentum a orci orci et Phasellus nunc lorem ante odio. Aliquam aliquet adipiscing id ridiculus et dictumst congue sem quis et. Nec sapien et at nec Curabitur Nulla enim ut risus.</p>
 <h3 id="Dalsi-nadpis"><a href="#Dalsi-nadpis" class="headerlink" title="Dalsi nadpis"></a>Dalsi nadpis</h3><p>Textu velka hromada. Lorem ipsum dolor sit amet consectetuer adipiscing ac pellentesque elit tellus. Neque lacus mauris Mauris eros purus nibh Morbi Curabitur ut sagittis. Porttitor Vestibulum id malesuada pretium Pellentesque interdum Fusce ridiculus lacinia lobortis. Eu fermentum a orci orci et Phasellus nunc lorem ante odio. Aliquam aliquet adipiscing id ridiculus et dictumst congue sem quis et. Nec sapien et at nec Curabitur Nulla enim ut risus.</p>
 <h4 id="No-a-dale-uz-snad-ne"><a href="#No-a-dale-uz-snad-ne" class="headerlink" title="No a dale uz snad ne"></a>No a dale uz snad ne</h4><p>Textu velka hromada. Lorem ipsum dolor sit amet consectetuer adipiscing ac pellentesque elit tellus.</p>
 <ul>
@@ -34,7 +36,7 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Nejaky-nadpis&quot;&gt;&lt;a href=&quot;#Nejaky-nadpis&quot; class=&quot;headerlink&quot; title=&quot;Nejaky nadpis&quot;&gt;&lt;/a&gt;Nejaky nadpis&lt;/h2&gt;&lt;p&gt;Textu velka hromada. Lorem
+      &lt;p&gt;Uvodni nejaky kratky text na zacatek clanku, ktery pak bude pokracovat.&lt;/p&gt;
     
     </summary>
     
